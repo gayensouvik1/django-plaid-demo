@@ -27,6 +27,7 @@ client_id = "5f096140d056f40013f9edd2"
 secret = "68a481eea52816de1c1f0805c57927"
 public_token = ""
 access_token = ""
+webhook_url = "http://21192d63f0e1.ngrok.io/bright/webhook/"
 
 def loginPage(request):
     # if request.user.is_authenticated:
@@ -154,7 +155,7 @@ def getAllTranactions(client_id, secret, access_token):
 def get_public_token(public_key,institution_id):
 
     url = "https://sandbox.plaid.com/sandbox/public_token/create"
-    payload = "{\n  \"public_key\": \""+public_key+"\",\n  \"institution_id\": \""+institution_id+"\",\n  \"initial_products\": [\"auth\"],\n  \"options\": {\n    \"webhook\": \"http://21192d63f0e1.ngrok.io/bright/webhook/\"\n  }\n}"
+    payload = "{\n  \"public_key\": \""+public_key+"\",\n  \"institution_id\": \""+institution_id+"\",\n  \"initial_products\": [\"auth\"],\n  \"options\": {\n    \"webhook\": \""+webhook_url+"\"\n  }\n}"
     headers = {
         'Content-Type': "application/json",
         'User-Agent': "Plaid Postman",

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5360c946-8acc-4168-9341-3ae2f95a9fc3" name="Default Changelist" comment="" />
+    <list default="true" id="5360c946-8acc-4168-9341-3ae2f95a9fc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bright/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bright/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +36,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="582" />
-          <entry key="py" value="3119" />
+          <entry key="py" value="3143" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="582" />
-          <entry key="Python" value="3119" />
+          <entry key="Python" value="3143" />
         </counts>
       </usages-collector>
     </session>
@@ -60,15 +62,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bright/templates/bright/accounts.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -80,15 +73,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bright/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="224" column="50" selection-start-line="224" selection-start-column="50" selection-end-line="224" selection-end-column="50" />
+            <state relative-caret-position="386">
+              <caret line="29" column="11" selection-start-line="29" selection-end-line="29" selection-end-column="11" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
-                <marker date="1594589740992" expanded="true" signature="998:2939" ph="..." />
-                <marker date="1594589740992" expanded="true" signature="3120:3125" ph="..." />
-                <marker date="1594589740992" expanded="true" signature="4343:4979" ph="..." />
-                <marker date="1594589740992" expanded="true" signature="7311:7312" ph="..." />
-                <marker date="1594589740992" expanded="true" signature="7749:7785" ph="..." />
+                <marker date="1594592739408" expanded="true" signature="1059:3000" ph="..." />
+                <marker date="1594592739408" expanded="true" signature="3181:3186" ph="..." />
+                <marker date="1594592739408" expanded="true" signature="4404:5040" ph="..." />
+                <marker date="1594592739408" expanded="true" signature="7343:7344" ph="..." />
+                <marker date="1594592739408" expanded="true" signature="7781:7817" ph="..." />
               </folding>
             </state>
           </provider>
@@ -158,6 +151,9 @@
       <find>login</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -199,6 +195,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -220,19 +217,6 @@
             <path>
               <item name="fintech" type="b2602c69:ProjectViewProjectNode" />
               <item name="fintech" type="462c0819:PsiDirectoryNode" />
-              <item name="bright" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fintech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fintech" type="462c0819:PsiDirectoryNode" />
-              <item name="bright" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="bright" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fintech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fintech" type="462c0819:PsiDirectoryNode" />
               <item name="fintech" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -247,7 +231,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594589872192" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594592806279" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -281,7 +265,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24153000" />
+    <option name="totallyTimeSpent" value="25074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -294,6 +278,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -301,7 +286,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5377943" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.13506815" />
       <window_info anchor="bottom" id="CheckStyle" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="10" />
@@ -446,17 +431,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bright/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="224" column="50" selection-start-line="224" selection-start-column="50" selection-end-line="224" selection-end-column="50" />
+        <state relative-caret-position="386">
+          <caret line="29" column="11" selection-start-line="29" selection-end-line="29" selection-end-column="11" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
-            <marker date="1594589740992" expanded="true" signature="998:2939" ph="..." />
-            <marker date="1594589740992" expanded="true" signature="3120:3125" ph="..." />
-            <marker date="1594589740992" expanded="true" signature="4343:4979" ph="..." />
-            <marker date="1594589740992" expanded="true" signature="7311:7312" ph="..." />
-            <marker date="1594589740992" expanded="true" signature="7749:7785" ph="..." />
+            <marker date="1594592739408" expanded="true" signature="1059:3000" ph="..." />
+            <marker date="1594592739408" expanded="true" signature="3181:3186" ph="..." />
+            <marker date="1594592739408" expanded="true" signature="4404:5040" ph="..." />
+            <marker date="1594592739408" expanded="true" signature="7343:7344" ph="..." />
+            <marker date="1594592739408" expanded="true" signature="7781:7817" ph="..." />
           </folding>
         </state>
       </provider>
