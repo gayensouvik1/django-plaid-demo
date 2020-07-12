@@ -1,0 +1,7 @@
+
+mpython:S1542+"URename function "registerPage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŒÏÌş
+spython:S1542Z"TRename function "accountPage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ê‚¨8—†ä•´.
+ppython:S1542="SRename function "logoutUser" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İ´™Óşÿÿÿÿ
+npython:S1542W"QRename function "homePage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¿•Éóıÿÿÿÿ
+jpython:S1542"RRename function "loginPage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜øğµ
+ppython:S1542A"SRename function "createItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ë×¶àıÿÿÿÿ

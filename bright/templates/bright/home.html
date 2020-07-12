@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h3>HomePage</h3>
+    <a href="{% url 'bright:createItem' %}">Link account</a>
+    <br>
+    <a href="{% url 'bright:accounts' %}">Get Account Data</a>
+    <br>
+    <a href="{% url 'bright:transactions' %}">Get Transaction Data</a>
+    <br><br>
+{{data}}
+</body>
+</html>
